@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SociaMedia" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryVariant">@color/orange</item>
+        <item name="colorOnPrimary">@color/background</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="fontFamily">@font/fontra</item>
+    </style>
+
+    <style name="ToolbarThemeOverlay" parent="@style/ThemeOverlay.AppCompat.Light">
+        <item name="fontFamily">@font/fontra</item>
+    </style>
+
+    <style name="SplashScreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/background_splashscreen</item>
+    </style>
+
+    <style name="errorToast">
+        <item name="stColorBackground">#FF4747</item>
+        <item name="stTextColor">#fff</item>
+        <item name="stFont">@font/myfont</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stTextSize">14sp</item>
+        <item name="stRadius">3dp</item>
+    </style>
+
+    <style name="successToast">
+        <item name="stColorBackground">#50D855</item>
+        <item name="stTextColor">#fff</item>
+        <item name="stFont">@font/myfont</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stTextSize">14sp</item>
+        <item name="stRadius">3dp</item>
+    </style>
+
+
+
+
+</resources>

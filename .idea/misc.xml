@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable-anydpi/bg_search.xml" value="0.23378378378378378" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable-xhdpi/circle_offline.xml" value="0.199609375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/background_splashscreen.xml" value="0.202734375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_box_profile.xml" value="0.202734375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_comment.xml" value="0.1972972972972973" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_like.xml" value="0.1972972972972973" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_mor.xml" value="0.19166666666666668" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_notification.xml" value="0.165625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_receiver.xml" value="0.202734375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_round.xml" value="0.202734375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_sender.xml" value="0.202734375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/bg_share.xml" value="0.1972972972972973" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/btn_edit.xml" value="0.202734375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/button_orange.xml" value="0.2703125" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/circle_online.xml" value="0.199609375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/gradient.xml" value="0.202734375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/ic_close.xml" value="0.23378378378378378" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/input_background.xml" value="0.2703125" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/navigation_bg.xml" value="0.23378378378378378" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/drawable/radius.xml" value="0.202734375" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/font/fontra.xml" value="0.21015625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_add_story.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_chat.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_chat_list.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_comment.xml" value="0.264" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_edit_profile.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_followers.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_home.xml" value="0.176" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_options.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_person_profile.xml" value="0.2" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_post.xml" value="0.21981981981981982" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_post_details.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_setting.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_splash_screen.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_story.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/activity_update_password.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/add_story_item.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/comment_item.xml" value="0.264" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/delete_account_dialog.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/delete_comment_dialog.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/delete_msg_dialog.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/editpost_dialog.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/fragment_chat_list.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/fragment_home.xml" value="0.21981981981981982" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/fragment_msg.xml" value="0.21981981981981982" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/fragment_notification.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/fragment_post_details.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/fragment_profile.xml" value="0.4" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/no_internet_dialog.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/notification_item.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/photo_item.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/post_item.xml" value="0.2" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/profress_dialog_upload.xml" value="0.6" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/progress_dialog.xml" value="0.6" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/recover_dialog.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/row_chat_left.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/row_chat_right.xml" value="0.152" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/row_chatlist.xml" value="0.536" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/story_dialog.xml" value="0.72" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/story_item.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/test.xml" value="0.190625" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/update_password_dialog.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/layout/user_item.xml" value="0.21981981981981982" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/menu/bottom_navigation.xml" value="0.21981981981981982" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/menu/post_menu.xml" value="0.1875" />
+        <entry key="..\:/project/SociaMedia/app/src/main/res/xml/paths.xml" value="0.1875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

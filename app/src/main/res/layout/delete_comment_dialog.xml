@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:background="@color/background">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ژێبرنا لێدوان"
+            android:fontFamily="@font/myfont"
+            android:textSize="28sp"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="26dp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="تە دڤێتن لێدوانا تە بهێتە ژێبرن ؟"
+            android:textColor="#DA5656"
+            android:textSize="20sp"
+            />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="end"
+            android:layout_marginTop="10dp">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="نەخێر"
+                android:textSize="20sp"
+                android:id="@+id/nodeleteCom"
+                android:backgroundTint="@color/bg_msg"
+                android:layout_marginRight="6dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="بەلێ"
+                android:textSize="20sp"
+                android:id="@+id/deleteCom"
+                android:backgroundTint="#DA5656"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

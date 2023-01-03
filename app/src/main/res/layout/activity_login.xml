@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55dp"
+        android:src="@drawable/logo"
+
+        />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/myfont"
+        android:text="چوونە ژوور"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="26sp" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="350dp"
+        android:layout_height="48dp"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/input_background"
+        android:fontFamily="@font/myfont"
+        android:gravity="center"
+        android:hint="ناسنامێ خۆ بنڤێسە"
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="350dp"
+        android:layout_height="48dp"
+        android:layout_below="@+id/email"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/input_background"
+        android:hint="پەیڤا نهێنى بنڤێسە"
+        android:gravity="center"
+        android:textColorHint="#fff"
+        android:textSize="16sp"
+        android:fontFamily="@font/myfont"
+        android:textColor="#fff"
+        android:ems="10"
+        android:inputType="textPassword"
+        />
+
+    <TextView
+        android:id="@+id/forgotpassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="40dp"
+        android:fontFamily="@font/myfont"
+        android:text="پەیڤا نهێنى ژبیرکریە ؟"
+        android:textColor="@color/orange"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/Btnlogin"
+        android:layout_width="350dp"
+        android:layout_height="48dp"
+        android:layout_below="@+id/password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="110dp"
+        android:background="@drawable/button_orange"
+        android:backgroundTint="@color/orange"
+        android:fontFamily="@font/myfont"
+        android:text="چوونە ژوور"
+        android:textSize="20sp"
+        app:backgroundTint="@color/orange" />
+
+    <TextView
+        android:id="@+id/pageRegister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Btnlogin"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="40dp"
+        android:textSize="14sp"
+        android:fontFamily="@font/myfont"
+        android:text="هەژمارەکا نوى دروست بکە"
+        android:textColor="@color/orange" />
+
+
+</RelativeLayout>

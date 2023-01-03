@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248967200433",
+    "project_id": "socialmeda-b29a0",
+    "storage_bucket": "socialmeda-b29a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248967200433:android:cf20692d0df5272f22ac90",
+        "android_client_info": {
+          "package_name": "com.example.sociamedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248967200433-tv61o9l0shqjavibb6j35543raslg9gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVt5smRjUcq_LSQ_0jgu_LkYNUd0b-B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248967200433-tv61o9l0shqjavibb6j35543raslg9gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
